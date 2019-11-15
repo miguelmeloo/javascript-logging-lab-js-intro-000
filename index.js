@@ -1,3 +1,3 @@
-call.error("HALP!")
-call.warn("Look out!")
-call.log("It's all good now.")
+console.error("HALP!")
+console.warn("Look out!")
+console.log("It's all good now.")
